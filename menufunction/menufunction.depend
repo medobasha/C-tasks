@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637073669 source:d:\amira\menufunction\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
